@@ -1,0 +1,68 @@
+[06-Jan-2026 02:49:55 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[11-Jan-2026 06:05:54 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[27-Jan-2026 10:17:04 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[24-Feb-2026 04:41:32 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[26-Feb-2026 15:36:29 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[05-Mar-2026 02:11:31 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[08-Mar-2026 20:05:25 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[10-Mar-2026 22:44:36 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[18-Mar-2026 02:07:36 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[28-Mar-2026 01:51:21 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[22-Apr-2026 06:23:37 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[26-Apr-2026 17:22:01 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[02-May-2026 13:58:19 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[05-May-2026 03:25:37 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[16-May-2026 13:38:08 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[16-May-2026 22:38:47 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8
+[09-Jun-2026 18:19:25 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/iirplwmy/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/iirplwmy/public_html/wp-includes/blocks/index.php on line 8

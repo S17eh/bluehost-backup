@@ -1,0 +1,475 @@
+.image-card {
+  max-width: 480px;
+  width: 100%;
+  padding: 12px;
+  border-radius: 16px;
+}
+.hero-section{
+	padding-top: 100px;
+}
+
+.service-details-heading {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  color: #304F6E;
+}
+
+.service-details-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  color: #82A256;
+}
+
+
+.about-payroll-section {
+  background-color: #6ea548;
+  /* green band */
+  color: #ffffff;
+  position: relative;
+  padding: 67px 0px;
+}
+
+.about-payroll-section .service-about-title {
+  font-size: 28px;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+
+}
+
+.about-payroll-section .service-about-text {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+
+}
+
+.solutions-section {
+  padding: 100px 0px;
+}
+
+.solutions-title {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #304F6E;
+  padding-bottom: 5px;
+}
+
+/* Card-like accordion items */
+.solutions-accordion .accordion-item {
+  border: none;
+  border-radius: 60px;
+  overflow: hidden;
+  margin-bottom: 12px;
+  background-color: #ffffff;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+
+/* Button styling */
+.solutions-accordion .accordion-button {
+  padding: 1rem 1.5rem;
+  font-weight: 500;
+  color: #3f6212;
+  background-color: #ffffff;
+  box-shadow: none;
+}
+
+/* collapsed state */
+.solutions-accordion .accordion-button.collapsed {
+  color: #82A256;
+  font-weight: 600;
+  font-style: Semi Bold;
+  font-size: 20px;
+  line-height: 120%;
+  padding: 19px 33px;
+
+}
+
+/* remove default border + icon background */
+.solutions-accordion .accordion-button::after {
+  background-image: url("/wp-content/uploads/2025/11/down-arrow.svg");
+  background-size: 16px;
+  width: 16px;
+  height: 16px;
+}
+
+/* active item background */
+.solutions-accordion .accordion-button:not(.collapsed) {
+  color: #82A256;
+  font-weight: 600;
+  font-style: Semi Bold;
+  font-size: 20px;
+  line-height: 120%;
+  padding: 30px 30px 28px 30px;
+}
+
+/* body */
+.solutions-accordion .accordion-body {
+  color: #8B8B8B;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 200%;
+  padding: 0px 0px 28px 30px;
+}
+
+.solutions-accordion .accordion-body ul {
+  padding-left: 1.25rem;
+}
+
+
+.why-vcfo-section {
+  background-color: #264867;
+  color: #ffffff;
+  padding: 70px 0px;
+}
+
+.why-vcfo-title {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 150%;
+
+}
+
+.vcfo-item {
+  display: flex;
+  align-items: flex-start;
+
+}
+
+.vcfo-icon {
+  display: inline-flex;
+  width: 14PX;
+  height: 15PX;
+  margin-right: 14px;
+  background-image: url('/wp-content/uploads/2025/11/star.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  margin-top: 4px;
+}
+
+.vcfo-text h5 {
+  margin: 0;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 120%;
+  padding-bottom: 6px;
+}
+
+.vcfo-text p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+
+}
+
+.faq-section{
+  padding: 100px 0;
+}
+.faq-title {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 100%;
+  color: #304F6E;
+}
+
+.faq-accordion .accordion-item {
+  border: none;
+  border-bottom: 1px solid #e2e6ea;
+  background: transparent;
+  box-shadow: none;
+}
+
+.faq-accordion .accordion-button {
+  background: transparent;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #304F6E;
+  padding: 26px 10px;
+  transition: 0.3s ease;
+  box-shadow: none;
+}
+
+.faq-accordion .accordion-button:hover {
+  color: #304F6E;
+}
+
+.faq-accordion .accordion-button:not(.collapsed) {
+  background: transparent;
+  color: #304F6E;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+}
+
+.faq-accordion .accordion-button::after {
+  content: "";
+  background-image: url("/wp-content/uploads/2025/11/down-arrow.svg");
+  background-size: 16px;
+  width: 16px;
+  height: 16px;
+}
+
+.faq-accordion .accordion-button:not(.collapsed)::after {
+  transform: rotate(180deg);
+  transition: 0.4s;
+}
+
+.faq-accordion .accordion-body {
+  color: #8B8B8B;
+  padding: 10px 10px 26px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  width: 80%;
+}
+.service-single-image{
+	width: 500px;
+	height: 307px;
+}
+
+@media (max-width: 991.98px) {
+
+  .service-details-heading {
+    font-size: 36px;
+  }
+
+  .service-details-title {
+    font-size: 20px;
+  }
+
+  .solutions-section,
+  .faq-section,
+  .why-vcfo-section {
+    padding: 60px 0;
+  }
+
+  .solutions-title,
+  .why-vcfo-title,
+  .faq-title {
+    font-size: 32px;
+    text-align: left;
+  }
+
+  .solutions-accordion .accordion-item {
+    border-radius: 24px;
+  }
+
+  .solutions-accordion .accordion-button,
+  .solutions-accordion .accordion-button.collapsed {
+    font-size: 18px;
+    padding: 18px 20px;
+  }
+
+  .solutions-accordion .accordion-body {
+    padding: 0 20px 22px 20px;
+  }
+
+  .vcfo-text h5 {
+    font-size: 18px;
+  }
+
+  .vcfo-text p {
+    font-size: 13px;
+  }
+
+  .faq-accordion .accordion-button {
+    padding: 20px 6px;
+    font-size: 15px;
+  }
+
+  .faq-accordion .accordion-body {
+    width: 90%;
+  }
+}
+
+/* ========== MOBILE (<= 767px) ========== */
+@media (max-width: 767.98px) {
+
+  .hero-section {
+/*     padding: 40px 0; */
+	  margin-top: 60px;
+  }
+
+  .service-details-heading {
+    font-size: 28px;
+    text-align: left;
+  }
+
+  .service-details-title {
+    font-size: 18px;
+  }
+
+  .image-card {
+    max-width: 320px;
+    margin-top: 20px;
+  }
+
+  .about-payroll-section {
+    padding: 40px 0;
+  }
+
+  .about-payroll-section .service-about-title,
+  .solutions-title,
+  .why-vcfo-title,
+  .faq-title {
+    font-size: 24px;
+    text-align: left;
+  }
+
+  .solutions-section,
+  .why-vcfo-section,
+  .faq-section {
+    padding: 50px 20px;
+  }
+
+  .solutions-accordion .accordion-item {
+    border-radius: 16px;
+  }
+
+  .solutions-accordion .accordion-button,
+  .solutions-accordion .accordion-button.collapsed {
+    font-size: 16px;
+    padding: 14px 16px;
+  }
+
+  .solutions-accordion .accordion-body {
+    font-size: 14px;
+    line-height: 170%;
+    padding: 0 16px 18px 16px;
+  }
+
+  .vcfo-item {
+    margin-bottom: 18px;
+  }
+
+  .vcfo-icon {
+    margin-right: 10px;
+    margin-top: 2px;
+  }
+
+  .faq-accordion .accordion-button {
+    padding: 16px 4px;
+    font-size: 14px;
+  }
+
+  .faq-accordion .accordion-body {
+    width: 100%;
+    padding: 6px 4px 18px;
+  }
+	.service-details-container{
+		padding: 0 20px;
+	}
+	.faq-accordion .accordion-button::after{
+		width: 12px;
+		height: 12px;
+		    background-size: 11px;
+
+	}
+}
+
+/* ========== VERY SMALL (<= 480px) ========== */
+@media (max-width: 480px) {
+
+  .service-details-heading {
+    font-size: 24px;
+  }
+
+  .solutions-title,
+  .why-vcfo-title,
+  .faq-title {
+    font-size: 22px;
+  }
+
+  .solutions-accordion .accordion-button,
+  .solutions-accordion .accordion-button.collapsed {
+    font-size: 15px;
+  }
+
+  .faq-accordion .accordion-button {
+    font-size: 13px;
+  }
+}
+
+.industry-section {
+  padding: 100px 0;
+}
+
+.industry-title {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 120%;
+  color: #304F6E;
+  max-width: 80%;
+}
+
+/* Card */
+.industry-card {
+  background-color: #ffffff;
+  border-radius: 24px;
+  border: 1px solid #e4ebf2;
+  padding: 32px 24px;
+}
+
+.industry-card:hover {
+  border-color: #82A256;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.08);
+}
+
+/* Icon */
+.industry-icon img {
+  max-width: 46px;
+  height: auto;
+}
+
+.industry-card-title {
+  margin-bottom: 6px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #304F6E;
+font-weight: 600;
+font-size: 16px;
+line-height: 120%;
+
+}
+
+.industry-card-text {
+  font-size: 14px;
+  color: #8B8B8B;
+font-size: 14px;
+line-height: 130%;
+
+}
+
+/* Responsive tweaks */
+@media (max-width: 991.98px) {
+  .industry-section {
+    padding: 70px 0;
+  }
+  .industry-title {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .industry-section {
+    padding: 50px 20px;
+  }
+  .industry-title {
+    font-size: 26px;
+  }
+  .industry-card {
+    padding: 24px 18px;
+  }
+}
